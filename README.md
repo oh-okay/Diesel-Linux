@@ -1,6 +1,6 @@
 # Diesel Linux
 
-![Diesel Linux Logo][(github.com/oh-okay/Diesel-Linux/diesel_linux_logo.png)](https://github.com/oh-okay/Diesel-Linux/blob/main/diesel_linux_logo.png)
+![Diesel Linux Logo](https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png)
 
 ## Overview
 
