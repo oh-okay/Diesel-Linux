@@ -35,7 +35,7 @@ Instead of a traditional ISO installation, Diesel Linux provides a convenient tr
 
 1.  **Download the Diesel Transformation Script:**
     ```bash
-    wget -O diesel-transform.sh [YOUR_GITHUB_RAW_URL]/diesel-transform.sh
+    wget -O diesel-transform.sh https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel-transform.sh && chmod +x diesel-transform.sh && sudo ./diesel-transform.sh
     ```
 2.  **Make the script executable:**
     ```bash
