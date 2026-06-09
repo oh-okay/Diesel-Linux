@@ -6,8 +6,8 @@
 set -e
 
 # --- Configuration ---
-DIESEL_WALLPAPER_URL="[GITHUB_RAW_URL]/diesel_linux_wallpaper.png"
-DIESEL_LOGO_URL="[GITHUB_RAW_URL]/diesel_linux_logo.png"
+DIESEL_WALLPAPER_URL="https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_wallpaper.png"
+DIESEL_LOGO_URL="https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png"
 
 # --- Functions ---
 log_info() {
