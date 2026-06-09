@@ -28,7 +28,7 @@ Diesel Linux is designed for easy adoption on existing Ubuntu 24.04 LTS installa
 
 1.  **Download the Diesel Transformation Script:**
     ```bash
-    wget -O diesel-transform.sh [YOUR_GITHUB_RAW_URL]/diesel-transform.sh
+    ![Diesel Linux Logo](https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png)
     ```
 2.  **Make the script executable:**
     ```bash
