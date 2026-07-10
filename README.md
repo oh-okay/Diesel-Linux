@@ -50,10 +50,10 @@ After the script completes, a reboot is recommended for all changes to take full
 
 ## Contributing
 
-We welcome contributions from the community! If you have suggestions for improvements, bug reports, or would like to contribute code, please refer to our contribution guidelines https://discord.gg/trvqQw99RG.
+We welcome contributions from the community! If you have suggestions for improvements, bug reports, or would like to contribute code, please feel free to contribute.
 
 
 
 ## Support
 
-For support, please visit our community forums (to be added) or open an issue on our GitHub repository.
+For support, please visit our community forums [(on our discord)](https://discord.gg/trvqQw99RG) or open an issue on our GitHub repository.
